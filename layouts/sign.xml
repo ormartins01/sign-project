@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <dataInicio>21-03</dataInicio>
+        <dataFim>19-04</dataFim>
+        <elemento>Fogo</elemento>
+        <image>aries.png</image>
+        <descricao>Áries é o primeiro signo do zodíaco, regido por Marte, simbolizando energia e iniciativa.</descricao>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <dataInicio>20-04</dataInicio>
+        <dataFim>20-05</dataFim>
+        <elemento>Terra</elemento>
+        <image>touro.png</image>
+        <descricao>Touro é o segundo signo do zodíaco, regido por Vênus, simbolizando estabilidade e sensualidade.</descricao>
+    </signo>
+    <signo>
+        <nome>Gêmeos</nome>
+        <dataInicio>21-05</dataInicio>
+        <dataFim>20-06</dataFim>
+        <elemento>Ar</elemento>
+        <image>gemeos.png</image>
+        <descricao>Gêmeos é o terceiro signo do zodíaco, regido por Mercúrio, simbolizando comunicação e versatilidade.</descricao>
+    </signo>
+    <signo>
+        <nome>Câncer</nome>
+        <dataInicio>21-06</dataInicio>
+        <dataFim>22-07</dataFim>
+        <elemento>Água</elemento>
+        <image>cancer.png</image>
+        <descricao>Câncer é o quarto signo do zodíaco, regido pela Lua, simbolizando emoções e intuição.</descricao>
+    </signo>
+    <signo>
+        <nome>Leão</nome>
+        <dataInicio>23-07</dataInicio>
+        <dataFim>22-08</dataFim>
+        <elemento>Fogo</elemento>
+        <image>leao.png</image>
+        <descricao>Leão é o quinto signo do zodíaco, regido pelo Sol, simbolizando criatividade e liderança.</descricao>
+    </signo>
+    <signo>
+        <nome>Virgem</nome>
+        <dataInicio>23-08</dataInicio>
+        <dataFim>22-09</dataFim>
+        <elemento>Terra</elemento>
+        <image>virgem.png</image>
+        <descricao>Virgem é o sexto signo do zodíaco, regido por Mercúrio, simbolizando análise e perfeccionismo.</descricao>
+    </signo>
+    <signo>
+        <nome>Libra</nome>
+        <dataInicio>23-09</dataInicio>
+        <dataFim>22-10</dataFim>
+        <elemento>Ar</elemento>
+        <image>libra.png</image>
+        <descricao>Libra é o sétimo signo do zodíaco, regido por Vênus, simbolizando harmonia e justiça.</descricao>
+    </signo>
+    <signo>
+        <nome>Escorpião</nome>
+        <dataInicio>23-10</dataInicio>
+        <dataFim>21-11</dataFim>
+        <elemento>Água</elemento>
+        <image>escorpiao.png</image>
+        <descricao>Escorpião é o oitavo signo do zodíaco, regido por Plutão, simbolizando intensidade e transformação.</descricao>
+    </signo>
+    <signo>
+        <nome>Sagitário</nome>
+        <dataInicio>22-11</dataInicio>
+        <dataFim>21-12</dataFim>
+        <elemento>Fogo</elemento>
+        <image>sagitario.png</image>
+        <descricao>Sagitário é o nono signo do zodíaco, regido por Júpiter, simbolizando aventura e filosofia.</descricao>
+    </signo>
+    <signo>
+        <nome>Capricórnio</nome>
+        <dataInicio>22-12</dataInicio>
+        <dataFim>19-01</dataFim>
+        <elemento>Terra</elemento>
+        <image>capricornio.png</image>
+        <descricao>Capricórnio é o décimo signo do zodíaco, regido por Saturno, simbolizando disciplina e ambição.</descricao>
+    </signo>
+    <signo>
+        <nome>Aquário</nome>
+        <dataInicio>20-01</dataInicio>
+        <dataFim>18-02</dataFim>
+        <elemento>Ar</elemento>
+        <image>aquario.png</image>
+        <descricao>Aquário é o décimo primeiro signo do zodíaco, regido por Urano, simbolizando inovação e humanitarismo.</descricao>
+    </signo>
+    <signo>
+        <nome>Peixes</nome>
+        <dataInicio>19-02</dataInicio>
+        <dataFim>20-03</dataFim>
+        <elemento>Água</elemento>
+        <image>peixes.png</image>
+        <descricao>Peixes é o décimo segundo signo do zodíaco, regido por Netuno, simbolizando empatia e espiritualidade.</descricao>
+    </signo>
+</signos>
